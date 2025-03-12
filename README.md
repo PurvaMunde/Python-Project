@@ -1,2 +1,2 @@
 # Python-Project
-by using Datasets of Heart diesease , Diabetes , Car Sale
+Project related to datasets of Diabetes ,Car Sale & Heart Diseases by using python built-in library Pandas
